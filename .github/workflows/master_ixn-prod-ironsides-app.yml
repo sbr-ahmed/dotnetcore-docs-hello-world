@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ixn-prod-ironsides-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB386E8CB04F432CA13337AD0E06BDA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E2D9A6FF77344563BD5160D4B4012E19 }}
           package: .
