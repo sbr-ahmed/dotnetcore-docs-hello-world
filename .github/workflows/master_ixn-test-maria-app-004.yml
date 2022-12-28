@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ixn-test-maria-app-004'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89A7E86113254A39B4C4D729E7F84E90 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB07190410D64AB6B3915AE6242EC296 }}
           package: .
